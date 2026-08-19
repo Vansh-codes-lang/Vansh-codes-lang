@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="./assets/typing-terminal.svg" alt="Typing terminal animation" />
-
-</div>
-
 <table>
 <tr>
 <td width="420" valign="top">
